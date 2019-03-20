@@ -1,0 +1,15 @@
+print('hello world') #print's hello world
+
+myname = input("please enter name-")
+
+print('hello {}'.format(myname))
+
+print("it's good to meet you {}".format(myname))
+
+print('the length of your name is {} '.format(len(myname)))
+
+print("what is your age??")
+
+myage=input("please enter age-")
+
+print("welcome {} age {} to the course of python".format(myname,myage))
