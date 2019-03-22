@@ -1,2 +1,5 @@
 # hello-world
-program is for people who would love to do python by projects
+#program_is_for_people_who_would_love_to_do_python_by_projects
+
+print("Hello World")
+
